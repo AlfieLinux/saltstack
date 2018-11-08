@@ -1,3 +1,2 @@
 # salt
-salt hommia :-D
-teron kurssi muistiinpanoja
+almost complete LAMP stack using state.highstate.
